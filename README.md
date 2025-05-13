@@ -1,4 +1,4 @@
 # Git-Begineer
 First commit
 
-Jenkins 
+polling git to jenkins
